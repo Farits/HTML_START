@@ -1,3 +1,9 @@
 html, body{
-	background: #ccc;
+	font-size: 16px;
 }
+/*wrappers*/
+.wrappers {
+	display: flex;
+	flex-direction: column;
+}
+/*// wrappers*/
